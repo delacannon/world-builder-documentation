@@ -1,6 +1,6 @@
 # World Builder Documentation
 
-World Builder original game engine documentation extracted using vMac and exportFL. Original texts by Ray Dunakin.
+World Builder original game engine documentation extracted using vMac and exportFL. Written by Ray Dunakin on 11/26/95.
 
 ### About World Builder
 
